@@ -21,3 +21,4 @@ AlgoStudy(알쓰)
 |---|---|---|---|---|---|---|---|
 |250703|[bj8911](https://www.acmicpc.net/problem/8911)|성수|거북이||||
 |250624|[bj32196](https://www.acmicpc.net/problem/32196)|경대|급행 열차||||
+|250703|[388351](https://school.programmers.co.kr/learn/courses/30/lessons/388351)|한길|유연근무제||||
